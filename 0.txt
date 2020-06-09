@@ -1,0 +1,4 @@
+2 DEL <2>
+1 ADD "menna"
+4 DEL <2>
+3 DEL <0>

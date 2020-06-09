@@ -1,0 +1,12 @@
+at time 1  required operation add
+at time 1  number of free slots in disk =10
+at time 1 successful add is made at slot 0
+at time 2  required operation del
+at time 3  required operation del
+at time 4  number of free slots in disk =9
+at time 4 unsuccessful delete 
+at time 4  required operation del
+at time 4  number of free slots in disk =9
+at time 4 successful del is made at slot 0
+at time 5  number of free slots in disk =10
+at time 5 unsuccessful delete 
